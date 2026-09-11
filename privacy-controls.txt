@@ -1,0 +1,6 @@
+Feature: Privacy and Blocking Controls
+
+- Users can make their profiles public or private.
+- Users can block other accounts.
+- Posts from blocked users will be hidden.
+- Blocked users cannot send messages or follow requests.
