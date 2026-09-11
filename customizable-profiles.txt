@@ -1,0 +1,8 @@
+Story: CSP-8 Customizable Profiles
+
+Requirements:
+- Users can add a display name and profile biography.
+- Users can upload or change their profile picture.
+- Users can add their interests and location.
+- Users can edit their profile information at any time.
+- Updated profile information is visible after it is saved.
