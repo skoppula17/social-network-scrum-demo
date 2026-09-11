@@ -1,0 +1,9 @@
+Story: CSP-16 Notifications for Interactions and New Posts
+
+Requirements:
+- Users receive a notification when someone likes or comments on their post.
+- Users receive notifications for new followers and connection requests.
+- Users can receive notifications when followed accounts publish new posts.
+- Users can mark individual notifications as read.
+- Users can clear all notifications.
+- Notifications from blocked users are not displayed.
